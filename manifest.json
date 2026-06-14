@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Ruby Remover Manual",
+  "version": "1.1",
+  "description": "Entfernt Ruby-Tags und bereinigt Middle-Blocks per Knopfdruck.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_title": "Ruby jetzt entfernen"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

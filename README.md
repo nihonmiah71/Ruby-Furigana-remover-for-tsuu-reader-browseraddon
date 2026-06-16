@@ -4,6 +4,16 @@
 
 ---
 
+**Demo**
+
+
+
+https://github.com/user-attachments/assets/12daaa9e-3880-402e-a733-e8d38e6a2822
+
+
+
+---
+
 ## Key Features
 
 * **Furigana Removal (Ruby Tags):** The extension scans the document, removes all `<rt>` and `<rp>` elements, and preserves only the original Kanji or base text. The structural integrity of the layout remains perfectly intact.
